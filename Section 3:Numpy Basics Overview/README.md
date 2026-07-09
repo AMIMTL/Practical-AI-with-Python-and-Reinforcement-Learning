@@ -52,12 +52,12 @@ print(arr * 2)    # [2, 4, 6, 8]
 ## 🚀 Progress
 | Lecture | Completed? |
 |---------|------------|
-| 7. Introduction | [✅] |
-| 8. NumPy Arrays | [✅] |
-| 9. Operations I | [✅] |
-| 10. Operations II | [✅] |
-| 11. Exercise | [✅] |
-| 12. Solutions | [✅] |
+| 7. Introduction | ✅ |
+| 8. NumPy Arrays | ✅ |
+| 9. Operations I | ✅ |
+| 10. Operations II | ✅ |
+| 11. Exercise | ✅ |
+| 12. Solutions | ✅ |
 
 ---
 
