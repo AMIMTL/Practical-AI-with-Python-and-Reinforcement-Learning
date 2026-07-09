@@ -65,17 +65,17 @@ plt.show()
 
 | Lecture | Completed? |
 |---------|------------|
-| 13. Introduction | [ ] |
-| 14. Matplotlib Basics | [ ] |
-| 15. Understanding Figure | [ ] |
-| 16. Implementing Figures/Axes | [ ] |
-| 17. Figure Parameters | [ ] |
-| 18. Subplots | [ ] |
-| 19. Legends | [ ] |
-| 20. Colors and Styles | [ ] |
-| 21. Advanced (Optional) | [ ] |
-| 22. Exercise Overview | [ ] |
-| 23. Exercise Solutions | [ ] |
+| 13. Introduction | ✅ |
+| 14. Matplotlib Basics | ✅ |
+| 15. Understanding Figure | ✅ |
+| 16. Implementing Figures/Axes | ✅ |
+| 17. Figure Parameters | ✅ |
+| 18. Subplots | ✅ |
+| 19. Legends | ✅ |
+| 20. Colors and Styles | ✅ |
+| 21. Advanced (Optional) | ✅ |
+| 22. Exercise Overview | ✅ |
+| 23. Exercise Solutions | ✅ |
 
 ---
 
