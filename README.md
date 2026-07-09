@@ -6,7 +6,7 @@ Hands-on projects and code from the Udemy course on Practical AI with Python and
 **Course source:** [Udemy - Practical AI with Python and Reinforcement Learning](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning/)
 
 **Instructor:** Jose Portilla  
-**Status:** 🔄 In Progress (Started: [June 2026])
+**Status:** 🔄 In Progress (Started: June 2026)
 
 ## Course Overview
 This course teaches Reinforcement Learning and Deep Learning techniques to create practical AI programs using TensorFlow and OpenAI Gym, focusing on building intelligent agents for real-world problems.
