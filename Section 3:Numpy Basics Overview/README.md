@@ -2,7 +2,7 @@
 
 **Course:** Practical AI with Python and Reinforcement Learning  
 **Section:** 3 - NumPy Basics  
-**Status:** 🔄 In Progress (Started: [Your Start Date])
+**Status:** 🔄 In Progress (Started: Summer 2026)
 
 ---
 
