@@ -1,4 +1,4 @@
-# Section 3: NumPy Basics Overview
+# Section 3 : NumPy Basics Overview
 
 **Course:** Practical AI with Python and Reinforcement Learning  
 **Section:** 3 - NumPy Basics  
