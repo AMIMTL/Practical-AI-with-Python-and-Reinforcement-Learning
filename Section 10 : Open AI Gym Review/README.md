@@ -3,7 +3,7 @@
 **Course:** Practical AI with Python and Reinforcement Learning  
 **Section:** 11 - Classical Q Learning  
 **Status:** ✅ Completed  
-**Completed on:** [Add Date]
+**Completed on:** Summer 2026
 
 ---
 
