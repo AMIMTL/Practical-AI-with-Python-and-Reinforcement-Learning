@@ -19,8 +19,8 @@ This section extends Deep Q-Learning to **image-based environments**. You'll lea
 | 130 | Processing Images Part Three - Coding Replay Buffer and Sequences | 14min | ✅ |
 | 131 | Processing Images Part Four - Coding Preprocessing | 12min | ✅ |
 | 132 | DQN on Images - Part One - Imports and Processing | 19min | ✅ |
-| 133 | DQN on Images - Part Two - Constructing the Network | 12min | 🔄 |
-| 134 | DQN on Images - Part Three - Setting up the Agent | 19min | 🔄 |
+| 133 | DQN on Images - Part Two - Constructing the Network | 12min | ✅ |
+| 134 | DQN on Images - Part Three - Setting up the Agent | 19min | ✅ |
 | 135 | DQN Exercises Overview | 6min | ✅ |
 | 136 | DQN Exercises Solution | 20min | ✅ |
 
@@ -38,11 +38,9 @@ This section extends Deep Q-Learning to **image-based environments**. You'll lea
 - ✅ Image preprocessing (resizing, grayscale, normalization)
 - ✅ Imports and initial data processing for DQN on images
 
-### In Progress 🔄
-- [ ] Constructing the CNN network for image input
-- [ ] Setting up the DQN agent for image environments
-
 ### Completed ✅
+- ✅ Constructing the CNN network for image input
+- ✅ Setting up the DQN agent for image environments
 - ✅ DQN Exercises Overview
 - ✅ DQN Exercises Solution
 
