@@ -8,7 +8,7 @@ Hands-on projects and code from the Udemy course on Practical AI with Python and
 **Instructor:** Jose Portilla <br>
 **Last uodated:** 4/2023 <br>
 **Total length:** 26.5 hours on-demand video (156 lectures) <br>
-**Status:** 🔄 In Progress (Started: June 2026) <br>
+**Status:** ✅ Completed <br>
 
 ## Course Overview
 This course teaches Reinforcement Learning and Deep Learning techniques to create practical AI programs using TensorFlow and OpenAI Gym, focusing on building intelligent agents for real-world problems.
