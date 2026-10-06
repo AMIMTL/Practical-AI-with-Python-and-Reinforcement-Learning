@@ -33,4 +33,3 @@ This course teaches Reinforcement Learning and Deep Learning techniques to creat
 - Prior machine learning knowledge (Scikit-Learn level) recommended
 
 ## Notes
--
